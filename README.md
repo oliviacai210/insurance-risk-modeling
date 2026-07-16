@@ -2,8 +2,6 @@
 
 End-to-end loss-cost regression and claim-status classification on a ~40k-policy auto insurance dataset. Tweedie-loss gradient boosting for the regression side; tuned LightGBM with isotonic calibration for the classification side. Final deliverables include calibrated risk scores that can feed directly into a premium formula.
 
-*Originally completed as a course project at USC Marshall (DSO 530); polished and rewritten as a portfolio piece.*
-
 ---
 
 ## Executive summary
